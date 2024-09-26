@@ -42,7 +42,6 @@ python agent.py
 python human.py
 ```
 
-https://github.com/patrickloeber/snake-ai-pytorch
 
 ## Built by
 - [@Brun0Galli](https://github.com/Brun0Galli)
